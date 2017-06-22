@@ -1,0 +1,3 @@
+### Interoperability Knowledge Hub {#interoperability-knowledge-hub}
+
+The Interoperability Platform is working on the development of an ELIXIR Interoperability Knowledge Hub of Services, Standards and Best Practice. The information in the Knowledge Hub will allow infrastructure and tool developers to assess current best practice and determine which interoperability services and standards to implement under specific circumstances. First version is expected to be released Spring 2017\. This work contributes towards the EXCELERATE deliverable 5.1 due February 2018.

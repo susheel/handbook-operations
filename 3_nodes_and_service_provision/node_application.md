@@ -1,0 +1,3 @@
+### Node Application {#node-application}
+
+When a new country joins ELIXIR, its scientific community is invited to develop and submit an ELIXIR Node application. The ELIXIR Board has approved ELIXIR’s [Node Application template](https://drive.google.com/file/d/0B4WQQq4hwmbQa2JFMWc2Y2RIOWs/view?usp=sharing). This template is filled in by the Node, submitted to the ELIXIR Board, reviewed by the ELIXIR Scientific Advisory Board and approved by the ELIXIR Board.

@@ -1,0 +1,3 @@
+### Guidelines for administrative aspects of Implementation Studies {#guidelines-for-administrative-aspects-of-implementation-studies}
+
+Once an Implementation Study has been approved as part of the ELIXIR annual Work Plan, the project can be developed. [Guidelines for setup, execution &amp; conclusion of Implementation Studies](https://docs.google.com/document/d/12rvQQCb3bPz_t37jZJWae5UCQSfQR1JFgKz39U8zttA/edit?usp=sharing) provide practical instructions for the administrative aspects.

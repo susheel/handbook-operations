@@ -1,0 +1,3 @@
+### Concluding ELIXIR Collaboration Agreement {#concluding-elixir-collaboration-agreement}
+
+Upon the approval of the Node Application, ELIXIR Node Collaboration Agreement establishing the ELIXIR Node should be concluded between the Applicant and the ELIXIR Hub. In order to be able to enter into CA, the institutes which want to be part of the ELIXIR Node need to have in place an internal agreement linking the institutes together. By signing the Collaboration Agreement the Node Applicant becomes an ELIXIR Node. The [template of the Collaboration Agreement](https://drive.google.com/a/ebi.ac.uk/file/d/0B7btK9HAXhx1UlJlNzU4dC05ZzA/view?usp=sharing) has been approved by the ELIXIR Board.

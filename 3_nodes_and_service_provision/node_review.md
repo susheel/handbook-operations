@@ -1,0 +1,3 @@
+### Node review {#node-review}
+
+Once established, ELIXIR Nodes are regularly reviewed by the ELIXIR Scientific Advisory Board. Each year, 3-5 Nodes are invited to submit their update via the Node review form and attend the annual SAB meeting to present update from their Node. After the meeting, the SAB submits a review of the Node to the ELIXIR Board. [Guidelines for ELIXIR Node review](https://drive.google.com/file/d/0B7btK9HAXhx1QW1CdEVYYzJ0QmM/view?usp=sharing) have been approved by the ELIXIR Board and provide further information on the review process and also include forms to be used by the Node and the SAB in the review process.

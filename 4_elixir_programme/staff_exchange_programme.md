@@ -1,0 +1,3 @@
+### Staff Exchange Programme {#staff-exchange-programme}
+
+[In July 2016, we have initiated](https://www.elixir-europe.org/news/embl-ebi-teams-czech-elixir-node-build-annotation-capacity-czech-republic) [the first project](https://www.elixir-europe.org/news/embl-ebi-teams-czech-elixir-node-build-annotation-capacity-czech-republic) to serve as a test case in developing scope and principles of the ELIXIR Staff exchange programme. The programme will support staff visits among ELIXIR Nodes to strengthen links between ELIXIR Nodes in developing local bioinformatics capacities. The Guidelines for ELIXIR Staff Exchange Programme are under preparation.

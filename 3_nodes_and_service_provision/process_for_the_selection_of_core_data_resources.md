@@ -1,0 +1,5 @@
+### Process for the selection of Core Data Resources {#process-for-the-selection-of-core-data-resources}
+
+The ELIXIR Core Data Resources are defined as a set of European data resources that are of fundamental importance to the broad life science community and the long-term preservation of biological data. The process for selecting ELIXIR Core Data Resources has been developed by the Data Platform as part of EXCELERATE deliverable 3.1 and was recently published on ELIXIR’s F1000Research channel (Link to article: [Identifying ELIXIR Core Data Resources](https://f1000research.com/articles/5-2422/v1)<sup><sup id="557827222347798-footnote-ref-1"><a href="#557827222347798-footnote-1">[2]</a></sup></sup>). The [details of the first selection round are available](https://docs.google.com/document/d/12pzduv5vxUQ74YK9irXQZvmJLD0qwuT2IgOOMn-sYGk/edit?usp=sharing) and will be reviewed and updated, if necessary, before running the second selection round for ELIXIR Core Data Resources.
+
+[^2]:

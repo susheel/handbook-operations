@@ -1,0 +1,3 @@
+## 4\. ELIXIR Programme {#4-elixir-programme}
+
+The [ELIXIR Programme](https://drive.google.com/a/ebi.ac.uk/file/d/0B7btK9HAXhx1Qi1aQ01wTlNzN0E/view?usp=sharing) is the five-year scientific plan of ELIXIR, prepared by the ELIXIR Director in consultation with the ELIXIR Heads of Nodes Committee and adopted by the ELIXIR Board to fulfil the purpose and goals of ELIXIR. The current Programme spans years 2014-2018\. It is accompanied by the [ELIXIR Financial Plan](https://drive.google.com/a/ebi.ac.uk/file/d/0B7btK9HAXhx1dy1ZejRXdWotMlE/view) that sets out the indicative budget and membership fees in ELIXIR over the same period.

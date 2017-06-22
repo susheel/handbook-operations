@@ -1,0 +1,3 @@
+## 6\. Communications and External Relations {#6-communications-and-external-relations}
+
+This chapter contains background and links to ELIXIR’s strategies concerning External Relations, particularly communications. The aim of the various documents and guides is to ensure a harmonised communications presence for ELIXIR and enable Nodes, through collaborative editing of the website, to ensure their news, content and events are captured effectively. Some are public documents (ELIXIR Industry Strategy), others are internal and for consumption by ELIXIR partners only (i.e. ELIXIR’s Communication Strategy).
